@@ -16,6 +16,8 @@ goodbye <- function() {
 #'
 #' Multiplies an number by 2, then adds 5.
 #'
+#' @param x A number to multiply by 2 and add 5 to
+#'
 #' @export
 #' @examples
 #' some_math(5)

@@ -6,6 +6,9 @@
 \usage{
 some_math(x)
 }
+\arguments{
+\item{x}{A number to multiply by 2 and add 5 to}
+}
 \description{
 Multiplies an number by 2, then adds 5.
 }
